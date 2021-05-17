@@ -5,3 +5,9 @@ body{
 .gris{
     color: gray
 }
+#my-image-div{ 
+	background-image: url("../img/bg.jpg"); 
+	background-size: cover; 
+	height: 1000px; 
+	width: 100%; 
+} 
